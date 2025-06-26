@@ -1,6 +1,6 @@
 {
   "name": "capacitor-razorpay",
-  "version": "1.2.0",
+  "version": "1.2.0-force.0",
   "description": "This plugin is used for integration related to ionic Capacitor and its latest versions.",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
@@ -17,9 +17,9 @@
   "author": "sachin.nautiyal@razorpay.com",
   "license": "MIT",
   "devDependencies": {
-    "@capacitor/android": "^6.0.0",
-    "@capacitor/core": "^6.0.0",
-    "@capacitor/ios": "^6.0.0",
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/ios": "^7.0.0",
     "@ionic/prettier-config": "^1.0.0",
     "@ionic/swiftlint-config": "^1.0.0",
     "@rollup/plugin-node-resolve": "^8.1.0",
@@ -28,7 +28,7 @@
     "rimraf": "^3.0.0",
     "rollup": "^2.21.0",
     "swiftlint": "^1.0.1",
-    "typescript": "~3.8.3"
+    "typescript": "~5.2.0"
   },
   "peerDependencies": {
     "@capacitor/core": ">=6.0.0 <8.0.0"
@@ -56,9 +56,9 @@
   "swiftlint": "@ionic/swiftlint-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/razorpay/razorpay-cordova"
+    "url": "https://github.com/kshitij-myhq/razorpay-capacitor-force-capacitor-7"
   },
   "bugs": {
-    "url": "https://github.com/razorpay/razorpay-cordova/issues"
+    "url": "https://github.com/kshitij-myhq/razorpay-capacitor-force-capacitor-7/issues"
   }
 }
